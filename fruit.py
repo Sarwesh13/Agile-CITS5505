@@ -1,4 +1,4 @@
 def favourite_fruits():
-    print("My favourite fruits are:")
+    print("hi")
     return[]
 print"Hello World"
